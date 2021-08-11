@@ -1,2 +1,0 @@
-(this["webpackJsonplearn-cesium"]=this["webpackJsonplearn-cesium"]||[]).push([[11],{92:function(e,r,s){"use strict";s.r(r);var t=s(10),i=s(70),a=s(26);r.default=function(){return Object(t.useEffect)((function(){var e=new i.a.Viewer("stage",{terrainProvider:i.a.createWorldTerrain()}),r=new i.a.Cesium3DTileset({url:i.a.IonResource.fromAssetId(40866)});e.scene.primitives.add(r),e.zoomTo(r)}),[]),Object(a.jsx)("div",{id:"stage",style:{height:"100vh"}})}}}]);
-//# sourceMappingURL=11.65611e66.chunk.js.map
