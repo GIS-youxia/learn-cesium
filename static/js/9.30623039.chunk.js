@@ -1,0 +1,2 @@
+(this["webpackJsonplearn-cesium"]=this["webpackJsonplearn-cesium"]||[]).push([[9],{59:function(e,t,i){"use strict";i.r(t),i.d(t,"default",(function(){return c}));var n=i(10),u=i(70),s=i(26);function c(){Object(n.useRef)(null);return Object(n.useEffect)((function(){new u.a.CesiumWidget("widget1")}),[]),Object(s.jsx)("div",{id:"widget1",style:{height:700}})}}}]);
+//# sourceMappingURL=9.30623039.chunk.js.map
