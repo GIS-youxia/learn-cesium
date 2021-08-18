@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/error/index.js"],"names":["Error"],"mappings":"8KAAe,SAASA,IACtB,OAAO","file":"static/js/7.0c077fdf.chunk.js","sourcesContent":["export default function Error() {\n  return <div>404</div>\n}\n"],"sourceRoot":""}
