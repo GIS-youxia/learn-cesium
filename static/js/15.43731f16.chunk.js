@@ -1,1 +1,0 @@
-(this["webpackJsonplearn-cesium"]=this["webpackJsonplearn-cesium"]||[]).push([[15],{72:function(e,t,i){"use strict";i.r(t),i.d(t,"default",(function(){return c}));var n=i(11),u=i(84),s=i(23);function c(){Object(n.useRef)(null);return Object(n.useEffect)((function(){new u.b.CesiumWidget("widget1")}),[]),Object(s.jsx)("div",{id:"widget1",style:{height:700}})}}}]);
