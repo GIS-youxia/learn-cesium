@@ -1,2 +1,0 @@
-.case-block{padding:5px 5px 5px 10px;max-width:200px;position:relative}.case-block:before{content:"";display:block;width:1px;position:absolute;top:0;left:0;bottom:0;background:#aaa}.case-block .link{display:inline-block;margin-bottom:10px}.Home{height:100%;box-sizing:border-box;padding:20px;display:flex;flex-direction:column}.Home h2{height:50px;margin-bottom:30px}.Home ul{flex:1 0;max-height:calc(100% - 120px);overflow-y:auto}.Home .category{margin-bottom:20px}.Home .category h4{margin-bottom:10px}
-/*# sourceMappingURL=18.a2a270d3.chunk.css.map */
